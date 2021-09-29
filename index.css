@@ -33,6 +33,10 @@ p.blue {
     color: rgb(49, 118, 246);
 }
 
+p.noline{
+    text-decoration: none;
+}
+
 div.mid {
     margin-left: 10px;
     font-family: "Apron";
